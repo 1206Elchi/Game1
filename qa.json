@@ -1,0 +1,453 @@
+[
+    {
+      "question": "Zu welchem Character gehört diese Ultimate Voice Line: We Are Undefeatable! (opposing team)",
+      "answers": [
+        "Mantis",
+        "Namor",
+        "Hulk",
+        "Spider-Man"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welches Studio entwickelt Marvel Rivals?",
+      "answers": [
+        "Riot Games",
+        "Epic Games",
+        "NetEase Games",
+        "Nuverse"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welches Genre gehört Marvel Rivals an?",
+      "answers": [
+        "MOBA",
+        "Real-Time Strategy",
+        "Hero Shooter",
+        "Tactic Shooter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wann kam Season 0 für die Öffentlichkeit raus?",
+      "answers": [
+        "27. November 2024",
+        "9. November 2024",
+        "3. Januar 2025",
+        "6. Dezember 2024"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wie heißt der Modus, in dem ein Team eine Fracht eskortiert?",
+      "answers": [
+        "Convoy Mode",
+        "Escort",
+        "Cargo transport",
+        "Cargo Rivals"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wer kann sich in zwei verschiedene Formen verwandeln?",
+      "answers": [
+        "Scarlet Witch",
+        "Hulk",
+        "Loki",
+        "Doctor Strange"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welcher Charakter setzt Drohnen ein?",
+      "answers": [
+        "Penny Parker",
+        "Iron Man",
+        "Black Panther",
+        "Rocket Raccoon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welche Fähigkeit nutzt Spider-Man zur schnellen Fortbewegung?",
+      "answers": [
+        "Swing",
+        "Web Swing",
+        "Spider Swing",
+        "Web draft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wie viele Spiele werden in einem Competetive-Set gespielt?",
+      "answers": [
+        "Best of 3",
+        "Best of 5",
+        "Winner takes all",
+        "WZD on Top"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Was war das Thema von Season 0?",
+      "answers": [
+        "Kein Thema",
+        "a new age",
+        "Doom's Rise",
+        "The Beginning"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Was ist das Thema von Season 1?",
+      "answers": [
+        "Never back down",
+        "Strike back",
+        "The Revenge",
+        "Eternal Night Falls"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wie lange dauert eine Season in Marvel Rivals?",
+      "answers": [
+        "3 Monate",
+        "2,5 Monate",
+        "Keine feste Zeit",
+        "8 Wochen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welche Klasse hat Invisible Woman?",
+      "answers": [
+        "Strategist",
+        "Duelist",
+        "Support",
+        "Vanguard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Was ist das Ergebnis von Black Panthers \"Bast's Descent\"-Ultimate?",
+      "answers": [
+        "Erhöhter Schaden",
+        "Unverwundbarkeit",
+        "Heilung",
+        "Unsichtbarkeit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welcher Charakter kann Portale erschaffen?",
+      "answers": [
+        "Iron Man",
+        "Doctor Strange",
+        "Loki",
+        "Magik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wer ist der Hauptantagonist in Season 1?",
+      "answers": [
+        "Thanos",
+        "Galactus",
+        "Dracula",
+        "Doctor Doom"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welche Fähigkeit hat Magneto zur Kontrolle von Engpässen?",
+      "answers": [
+        "Magnetic Field",
+        "Metal Barrier",
+        "Metallic Curtain",
+        "Iron Wall"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie heißt der exklusive Venom-Skin für CBT-Spieler?",
+      "answers": [
+        "Venom Void",
+        "Symbiote Surge",
+        "Cyan Clash",
+        "Venomous Valor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welche Klasse hat The Thing?",
+      "answers": [
+        "Duelist",
+        "Strategist",
+        "Support",
+        "Vanguard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wie viele Hauptspielmodi gibt es in Marvel Rivals?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welcher Charakter kann heilen und offensiv kämpfen?",
+      "answers": [
+        "Doctor Strange",
+        "Mantis",
+        "Rocket Raccoon",
+        "Luna Snow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Was ist das Ziel im Domination Mode?",
+      "answers": [
+        "Flaggen erobern",
+        "Gegner eliminieren",
+        "Zentralen Punkt kontrollieren",
+        "Fracht eskortieren"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welcher Charakter ist auf Nahkampf spezialisiert?",
+      "answers": [
+        "Hawkeye",
+        "Black Widow",
+        "Black Panther",
+        "Star-Lord"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welche Sprachen werden in der Closed Beta unterstützt?",
+      "answers": [
+        "Nur Englisch",
+        "Englisch und Chinesisch",
+        "Englisch, Japanisch, Koreanisch",
+        "Englisch, Japanisch, Koreanisch, Deutsch, Französisch, Italienisch, Spanisch, Portugiesisch, Chinesisch"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Welcher Charakter kann Konstrukte erschaffen?",
+      "answers": [
+        "Iron Man",
+        "Doctor Strange",
+        "Groot",
+        "Green Goblin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welcher Charakter bietet Heilung und Geschwindigkeitsverstärkungen?",
+      "answers": [
+        "Mantis",
+        "Luna Snow",
+        "Invisible Woman",
+        "Black Widow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welcher Charakter kann gleiten und Schaden verursachen?",
+      "answers": [
+        "Thor",
+        "Storm",
+        "Iron Man",
+        "Human Torch"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie viele Spieler bilden ein Team in Competetive?",
+      "answers": [
+        "5 Spieler",
+        "6 Spieler",
+        "7 Spieler",
+        "8 Spieler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welcher Charakter nutzt Illusionen und Unsichtbarkeit?",
+      "answers": [
+        "Invisible Woman",
+        "Loki",
+        "Mysterio",
+        "Doctor Strange"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Was sind Health Packs in Marvel Rivals?",
+      "answers": [
+        "Startausrüstung",
+        "Verstreute Heilgegenstände",
+        "Spezialfähigkeiten",
+        "Teamboosts"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welche Klasse hat Mister Fantastic?",
+      "answers": [
+        "Strategist",
+        "Duelist",
+        "Support",
+        "Vanguard"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wie viele Charaktere können permanent in der Luft fliegen?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Was ist der Name des Team-Ups zwischen Storm und Human Torch?",
+      "answers": [
+        "Thunder Blaze",
+        "Storming Ignition",
+        "Elemental Fury",
+        "Tempest Inferno"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wie lange dauert der Schlafeffekt von Mantis?",
+      "answers": [
+        "2 Sekunden",
+        "3 Sekunden",
+        "3,5 Sekunden",
+        "4 Sekunden"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie viele Duelisten müssen nicht nachladen?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welcher Charakter schuldet Moon Knight Geld?",
+      "answers": [
+        "Loki",
+        "Dracula",
+        "Kingpin",
+        "Green Goblin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wie viel Geld schuldet dieser Charakter Moon Knight?",
+      "answers": [
+        "$3",
+        "$5",
+        "$10",
+        "$20"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welche Klasse hat Doctor Strange?",
+      "answers": [
+        "Strategist",
+        "Duelist",
+        "Support",
+        "Vanguard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wer ist für die Jagd auf Vampire im Marvel-Universum bekannt?",
+      "answers": [
+        "Punisher und Daredevil",
+        "Blade und Moon Knight",
+        "Wolverine und Moon Knight",
+        "Ghost Rider und Morbius"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Warum sind Vampire an Wolverines Körper interessiert?",
+      "answers": [
+        "Um seinen Heilungsfaktor zu studieren",
+        "Um seine Krallen zu kopieren",
+        "Um seine Superkraft zu stehlen",
+        "Um seine Identität zu entdecken"
+      ],
+      "correctAnswer": 0
+    },
+     {
+      "question": "Welche Fähigkeit ermöglicht es Doctor Strange zu fliegen?",
+      "answers": [
+        "Cloak of Levitation",
+        "Pentagram of Farallah",
+        "Price of Magic",
+        "Reality Erasure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welcher Charakter ist auf Gebietskontrolle mit Thornlash Wall spezialisiert?",
+      "answers": [
+        "Groot",
+        "Magneto",
+        "Black Panther",
+        "Iron Man"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welcher Vanguard-Charakter nutzt Metallic Curtain zur Abschirmung?",
+      "answers": [
+        "Magneto",
+        "Thor",
+        "Hulk",
+        "The Thing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welcher Charakter kann mit Bionic Hook Teamziele markieren?",
+      "answers": [
+        "Winter Soldier",
+        "Black Widow",
+        "Hawkeye",
+        "Iron Man"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Welche passive Fähigkeit erhöht Wolverines Schaden bei jedem Treffer?",
+      "answers": [
+        "Berserker Rage",
+        "Undying Animal",
+        "Regenerative Healing Factor",
+        "Healing Factor"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+  
