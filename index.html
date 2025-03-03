@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="quiz-container">
+        <div id="quiz-info" style="display: none;">
+            <div id="question-counter">Frage: 0 / 0</div>
+            <div id="jokers">
+                <button id="fifty-fifty" class="joker-btn">50:50</button>
+                <button id="phone-friend" class="joker-btn">Telefonjoker</button>
+                <button id="ask-audience" class="joker-btn">Publikumsjoker</button>
+            </div>
+        </div>
+        <div id="timer" style="display: none;"></div>
+        <div id="quiz-content">
+            <div class="start">
+                <h1>Das ultimative Marvel Rivals Quiz</h1>
+                <h3>Teste dein Wissen über Marvel Rivals!</h3>
+                <button class="start-btn" role="button">Start</button>
+            </div>
+        </div>
+    </div>
+    <audio id="background-music" loop>
+        <source src="sounds/background.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="correct-sound">
+        <source src="sounds/correct.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="wrong-sound">
+        <source src="sounds/wrong.mp3" type="audio/mpeg">
+    </audio>
+    <script src="script.js"></script>
+</body>
+</html>
